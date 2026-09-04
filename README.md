@@ -85,6 +85,4 @@ This project uses historical Olympic Games data.
 The main datasets are:
 
 ```text
-athlete_events.csv
-noc_regions.csv
 datasets link-https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
